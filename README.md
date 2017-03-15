@@ -1,5 +1,6 @@
 # Advanced-Lane-Finding
-Software pipeline that identifies the lane boundaries in a video from a front-facing camera on a car. 
+Software pipeline that identifies the lane boundaries in a video from a front-facing camera on a car. Please refer to `writeup_report.md` for a detailed discussion about the project.
+
 
 In this project, your goal is to write a software pipeline to identify the lane boundaries in a video.
 
